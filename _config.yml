@@ -1,0 +1,28 @@
+name: Suresh K Volam
+favicon: null
+layout_spectrum: 0.44337302073836327
+typography_spectrum: 0.008978808531537652
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8901712424121797
+  lightness: 0.7177305219229311
+  saturation: 0.87462267302908
+  rhythmicContrast: 0.5695522418245673
+purpose: []
